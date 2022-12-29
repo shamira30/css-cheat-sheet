@@ -1,4 +1,4 @@
-# css-grid
+# CSS Snippet Cheat Sheet 
 
 # User Story
     
